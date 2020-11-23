@@ -1,2 +1,3 @@
-name: Kanika Chopra, Data Scientist
+name: Kanika Chopra
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:/title
