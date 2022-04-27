@@ -131,19 +131,23 @@ span.highlight {
 }
 
 .nav {
+  list-style-type: none;
   border: 1px solid #ccc;
   border-width: 1px 0;
-  list-style: none;
   margin: 0;
   padding: 0;
   text-align: center;
 }
 
 
-.nav ul {
+.nav li {
   display: inline-block;
   padding: 10px;
-  
+}
+
+.nav li a {
+  padding: 5px 10px;
+  display: inline-block;
 }
   
 
