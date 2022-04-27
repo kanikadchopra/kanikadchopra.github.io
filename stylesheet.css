@@ -148,11 +148,12 @@ nav ul li a:hover {
 nav ul a {
   padding: 5px 10px;
   display: inline-block;
+}
+
+nav ul li a {
   font-size: 18px;
   color: #484848;
 }
-
-
   
 
 
