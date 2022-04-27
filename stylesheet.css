@@ -131,6 +131,11 @@ span.highlight {
   background-color: #ffffd0;
 }
 
+.grey-color {
+  color: #484848;
+  font-size: 16px;
+}
+
 ul li {
   padding-bottom: 0.25em;
 }
