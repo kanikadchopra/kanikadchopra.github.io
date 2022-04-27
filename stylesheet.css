@@ -106,6 +106,10 @@ name {
   font-size: 40px;
 }
 
+i {
+  padding: 3px;
+}
+
 .one {
   width: 160px;
   height: 160px;
