@@ -132,16 +132,13 @@ span.highlight {
 
 nav {
   list-style-type: none;
-  border: 1px solid #ccc;
-  border-width: 1px 0px;
   margin: 0;
   padding: 0;
   text-align: center;
 }
 
 nav li {
-  display: inline-block;
-  padding: 10px;
+  display: inline;
 }
 
 nav li a {
