@@ -130,11 +130,6 @@ span.highlight {
   background-color: #ffffd0;
 }
 
-nav a {
-  font-size: 18px;
-  color: #484848;
-}
-
 nav ul {
   list-style-type: none;
   margin: 0;
@@ -153,6 +148,8 @@ nav ul li a:hover {
 nav ul a {
   padding: 5px 10px;
   display: inline-block;
+  font-size: 18px;
+  color: #484848;
 }
 
 
