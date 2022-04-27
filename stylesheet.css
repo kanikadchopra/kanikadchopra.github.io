@@ -106,11 +106,6 @@ name {
   font-size: 40px;
 }
 
-i {
-  padding: 3px;
-  font-size: 30px;
-}
-
 .one {
   width: 160px;
   height: 160px;
@@ -137,6 +132,7 @@ span.highlight {
 }
 
 .grey-color {
+  padding-left: 3px;
   color: #484848;
   font-size: 30px;
 }
