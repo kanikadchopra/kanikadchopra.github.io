@@ -130,22 +130,21 @@ span.highlight {
   background-color: #ffffd0;
 }
 
-.nav {
+nav {
   list-style-type: none;
   border: 1px solid #ccc;
-  border-width: 1px 0;
+  border-width: 1px 0px;
   margin: 0;
   padding: 0;
   text-align: center;
 }
 
-
-.nav li {
+nav li {
   display: inline-block;
   padding: 10px;
 }
 
-.nav li a {
+nav li a {
   padding: 5px 10px;
   display: inline-block;
 }
