@@ -135,15 +135,13 @@ nav ul {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-size: 15px;
-  color: #787878;
 }
 
 nav {
   display: inline;
 }
 
-nav ul li a {
+nav ul a {
   padding: 5px 10px;
   display: inline-block;
 }
