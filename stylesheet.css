@@ -130,6 +130,10 @@ span.highlight {
   background-color: #ffffd0;
 }
 
+nav {
+  font-size: 18px;
+  color: #484848;
+
 nav ul {
   list-style-type: none;
   margin: 0;
