@@ -137,8 +137,12 @@ nav ul {
   text-align: center;
 }
 
-nav {
+nav li {
   display: inline;
+}
+
+nav ul li a:hover {
+  color:black
 }
 
 nav ul a {
