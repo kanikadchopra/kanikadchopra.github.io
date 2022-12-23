@@ -1,3 +1,3 @@
 ## Personal website
 
-Last updated: April 26, 2022
+Last updated: December 23, 2022
